@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-21 20:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-10-21 20:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-10-21 20:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-10-21 20:56:34 +0000",
+      "minecraft:plains": "2024-10-21 20:54:40 +0000",
+      "minecraft:jagged_peaks": "2024-10-21 20:57:41 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}

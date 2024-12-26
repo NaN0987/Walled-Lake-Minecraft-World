@@ -1,0 +1,37 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-10-20 11:26:18 +0000",
+      "minecraft:nether_wastes": "2024-10-20 11:26:35 +0000",
+      "minecraft:soul_sand_valley": "2024-10-20 11:26:08 +0000",
+      "minecraft:warped_forest": "2024-10-20 11:26:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-20 11:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-20 11:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-20 11:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:meadow": "2024-10-20 11:26:03 +0000",
+      "minecraft:plains": "2024-10-20 11:25:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}
